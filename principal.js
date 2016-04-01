@@ -8,4 +8,5 @@ function trocaBanner() {
 		banner[bannerAtual];
 }
 
-setInterval(trocaBanner, 200);
+-setInterval(trocaBanner, 2000);
++setInterval(trocaBanner, 1000);
